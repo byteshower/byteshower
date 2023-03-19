@@ -1,0 +1,39 @@
+# baseURL = 'https://hopeful-elion-6d9f8a.netlify.app/'
+baseURL = 'http://example.com:8080'
+languageCode = 'en-us'
+disableHugoGeneratorInject = true
+googleAnalytics = "UA-xxxxxxx"
+disqusShortname = "genhugo"
+title = "Demo infosystem"
+Paginate = 5
+theme = "basic"
+
+[params]
+    author = "Munir Hossain"
+    description = "my demo site to demonstrate that hugo is enough to build a complex business site"
+    gh_url = "https://api.github.com/users"
+    gh_user = "munirhossain"
+
+[permalinks]
+    posts = "posts/:year/:month/:slug/"
+    year = "/posts/:slug/"
+    month = "/posts/:slug/"
+
+[taxonomies]
+    year = "year"
+    month = "month"
+    tag = "tags"
+    category = "categories"
+
+[related]
+	threshold = 80.0
+	includeNewer = true
+	toLower = false
+
+[[related.indices]]
+    name = "keywords"
+    weight = 100.0
+
+[[related.indices]]
+    name = "date"
+    weight = 10.0

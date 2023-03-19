@@ -1,0 +1,6 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ range first 1 (where .Site.RegularPages "Type" "in" "projects").ByDate }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+{{ end }}

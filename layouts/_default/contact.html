@@ -1,0 +1,22 @@
+{{ define "main" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    <form action="POST" data-netlify="true">
+      <label for="fullname">Full name:</label><br>
+      <input type="text" id="fullname" name="fullname" value="John Doe"><br>
+      <label for="email">Email:</label><br>
+      <input type="text" id="email" name="email" value="yourname@email.com"><br>
+      <label for="subject">Subject:</label><br>
+      <input type="text" id="subject" name="subject" value="Subject of your query"><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" rows="4" cols="50">Write your text here.</textarea><br>
+      <div data-netlify-recaptcha="true"></div>
+      <input type="submit" value="Submit">
+    </form>
+    <h3>Social Media</h3>
+ 	<ul>
+ 	  {{ range .Site.Data.socialmedia.accounts }}
+ 	    <li><a href="{{ .url }}">{{ .name }}</a></li>
+ 	  {{ end }}
+ 	</ul>
+{{ end }}
