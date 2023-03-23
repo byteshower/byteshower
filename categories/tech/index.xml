@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech on Demo infosystem</title>
-    <link>http://example.com:8080/categories/tech/</link>
+    <link>https://byteshower.com/categories/tech/</link>
     <description>Recent content in tech on Demo infosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Nov 2021 13:48:43 -0800</lastBuildDate>
     
-	<atom:link href="http://example.com:8080/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://byteshower.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Morocco went big on solar energy</title>
-      <link>http://example.com:8080/posts/2021/11/how-morocco-went-big-on-solar-energy/</link>
+      <link>https://byteshower.com/posts/2021/11/how-morocco-went-big-on-solar-energy/</link>
       <pubDate>Tue, 09 Nov 2021 13:48:43 -0800</pubDate>
       
-      <guid>http://example.com:8080/posts/2021/11/how-morocco-went-big-on-solar-energy/</guid>
+      <guid>https://byteshower.com/posts/2021/11/how-morocco-went-big-on-solar-energy/</guid>
       <description>&lt;p&gt;Morocco has become famous for its vast, world-leading solar arrays. But these mega-projects are just the start of the action on climate change that Morocco could be capable of delivering.&lt;/p&gt;</description>
     </item>
     

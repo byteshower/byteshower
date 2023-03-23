@@ -1,11 +1,11 @@
 {
     "projects": [
       {
-        "url": "http://example.com:8080/projects/awesome/",
+        "url": "https://byteshower.com/projects/awesome/",
         "title": "Awesome"
       },
       {
-        "url": "http://example.com:8080/projects/beautiful/",
+        "url": "https://byteshower.com/projects/beautiful/",
         "title": "Beautiful"
       }
     ]

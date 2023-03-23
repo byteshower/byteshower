@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Demo infosystem</title>
-    <link>http://example.com:8080/categories/</link>
+    <link>https://byteshower.com/categories/</link>
     <description>Recent content in Categories on Demo infosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Jan 2022 06:49:15 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com:8080/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://byteshower.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NetlifyCMS</title>
-      <link>http://example.com:8080/categories/netlifycms/</link>
+      <link>https://byteshower.com/categories/netlifycms/</link>
       <pubDate>Sat, 29 Jan 2022 06:49:15 +0000</pubDate>
       
-      <guid>http://example.com:8080/categories/netlifycms/</guid>
+      <guid>https://byteshower.com/categories/netlifycms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deploy</title>
-      <link>http://example.com:8080/categories/deploy/</link>
+      <link>https://byteshower.com/categories/deploy/</link>
       <pubDate>Sat, 29 Jan 2022 06:49:15 +0000</pubDate>
       
-      <guid>http://example.com:8080/categories/deploy/</guid>
+      <guid>https://byteshower.com/categories/deploy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>climate change</title>
-      <link>http://example.com:8080/categories/climate-change/</link>
+      <link>https://byteshower.com/categories/climate-change/</link>
       <pubDate>Fri, 19 Nov 2021 23:09:50 -0800</pubDate>
       
-      <guid>http://example.com:8080/categories/climate-change/</guid>
+      <guid>https://byteshower.com/categories/climate-change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>environment</title>
-      <link>http://example.com:8080/categories/environment/</link>
+      <link>https://byteshower.com/categories/environment/</link>
       <pubDate>Fri, 19 Nov 2021 23:09:50 -0800</pubDate>
       
-      <guid>http://example.com:8080/categories/environment/</guid>
+      <guid>https://byteshower.com/categories/environment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>http://example.com:8080/categories/personal/</link>
+      <link>https://byteshower.com/categories/personal/</link>
       <pubDate>Fri, 19 Nov 2021 23:08:28 -0800</pubDate>
       
-      <guid>http://example.com:8080/categories/personal/</guid>
+      <guid>https://byteshower.com/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>http://example.com:8080/categories/thoughts/</link>
+      <link>https://byteshower.com/categories/thoughts/</link>
       <pubDate>Fri, 19 Nov 2021 23:08:28 -0800</pubDate>
       
-      <guid>http://example.com:8080/categories/thoughts/</guid>
+      <guid>https://byteshower.com/categories/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>solar energy</title>
-      <link>http://example.com:8080/categories/solar-energy/</link>
+      <link>https://byteshower.com/categories/solar-energy/</link>
       <pubDate>Tue, 09 Nov 2021 13:48:43 -0800</pubDate>
       
-      <guid>http://example.com:8080/categories/solar-energy/</guid>
+      <guid>https://byteshower.com/categories/solar-energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>http://example.com:8080/categories/tech/</link>
+      <link>https://byteshower.com/categories/tech/</link>
       <pubDate>Tue, 09 Nov 2021 13:48:43 -0800</pubDate>
       
-      <guid>http://example.com:8080/categories/tech/</guid>
+      <guid>https://byteshower.com/categories/tech/</guid>
       <description></description>
     </item>
     

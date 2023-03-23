@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Demo infosystem</title>
-    <link>http://example.com:8080/projects/</link>
+    <link>https://byteshower.com/projects/</link>
     <description>Recent content in Projects on Demo infosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com:8080/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://byteshower.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Awesome</title>
-      <link>http://example.com:8080/projects/awesome/</link>
+      <link>https://byteshower.com/projects/awesome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com:8080/projects/awesome/</guid>
+      <guid>https://byteshower.com/projects/awesome/</guid>
       <description>Summary of the Awesome project</description>
     </item>
     
     <item>
       <title>Beautiful</title>
-      <link>http://example.com:8080/projects/beautiful/</link>
+      <link>https://byteshower.com/projects/beautiful/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com:8080/projects/beautiful/</guid>
+      <guid>https://byteshower.com/projects/beautiful/</guid>
       <description>Summary of the Beautiful project</description>
     </item>
     

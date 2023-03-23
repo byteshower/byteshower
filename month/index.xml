@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Month on Demo infosystem</title>
-    <link>http://example.com:8080/month/</link>
+    <link>https://byteshower.com/month/</link>
     <description>Recent content in Month on Demo infosystem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Jan 2022 06:49:15 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com:8080/month/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://byteshower.com/month/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2022/1</title>
-      <link>http://example.com:8080/posts/2022/1/</link>
+      <link>https://byteshower.com/posts/2022/1/</link>
       <pubDate>Sat, 29 Jan 2022 06:49:15 +0000</pubDate>
       
-      <guid>http://example.com:8080/posts/2022/1/</guid>
+      <guid>https://byteshower.com/posts/2022/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2021/11</title>
-      <link>http://example.com:8080/posts/2021/11/</link>
+      <link>https://byteshower.com/posts/2021/11/</link>
       <pubDate>Fri, 19 Nov 2021 23:09:50 -0800</pubDate>
       
-      <guid>http://example.com:8080/posts/2021/11/</guid>
+      <guid>https://byteshower.com/posts/2021/11/</guid>
       <description></description>
     </item>
     
