@@ -1,0 +1,12 @@
+{
+    "projects": [
+      {
+        "url": "http://example.com:8080/projects/awesome/",
+        "title": "Awesome"
+      },
+      {
+        "url": "http://example.com:8080/projects/beautiful/",
+        "title": "Beautiful"
+      }
+    ]
+}

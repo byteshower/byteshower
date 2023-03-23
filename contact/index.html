@@ -5,10 +5,10 @@
     <meta name="author" content="Munir Hossain">
     <meta name="keywords" content="">
     <meta name="description" content="my demo site to demonstrate that hugo is enough to build a complex business site">
-    <title>Demo infosystem</title>
+    <title>Contact - Demo infosystem</title>
     
     <link rel="stylesheet" href="/css/style.min.80e3eb27d10148cde6f9717d7707b39588af80348b144a8eb3b67e0653cbc126.css">
-    <link rel="alternate"* type="application/rss+xml"* href="http://example.com:8080/index.xml"* title="Demo infosystem"*>
+    
     
 <script type="application/javascript">
 var doNotTrack = false;
@@ -34,15 +34,29 @@ if (!doNotTrack) {
     <a href="/contact" >Contact Us</a>
 </nav>
 
-  <p>this is my site.</p>
+    <h2>Contact</h2>
+    <p>Please contact us in the following social media.</p>
 
-<p>you&rsquo;ll find:
-* one
-* two</p>
-
-  
-    <li><a href="/projects/awesome/">Awesome</a></li>
-  
+    <form action="POST" data-netlify="true">
+      <label for="fullname">Full name:</label><br>
+      <input type="text" id="fullname" name="fullname" value="John Doe"><br>
+      <label for="email">Email:</label><br>
+      <input type="text" id="email" name="email" value="yourname@email.com"><br>
+      <label for="subject">Subject:</label><br>
+      <input type="text" id="subject" name="subject" value="Subject of your query"><br>
+      <label for="message">Message:</label><br>
+      <textarea id="message" name="message" rows="4" cols="50">Write your text here.</textarea><br>
+      <div data-netlify-recaptcha="true"></div>
+      <input type="submit" value="Submit">
+    </form>
+    <h3>Social Media</h3>
+ 	<ul>
+ 	  
+ 	    <li><a href="https://twitter.com/munirhossain_bd">Twitter</a></li>
+ 	  
+ 	    <li><a href="https://linkedin.com/in/munirhossain">LinkedIn</a></li>
+ 	  
+ 	</ul>
 <footer>
    <small>Copyright 2023 Munir Hossain.</small><small>
     

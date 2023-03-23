@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com:8080/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2022/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2022/1/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/tags/editing/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2022/01/first-post-from-netlify-deployment/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/month/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/netlifycms/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/year/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/deploy/</loc>
+    <lastmod>2022-01-29T06:49:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/search/</loc>
+    <lastmod>2021-11-20T00:02:38-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/</loc>
+    <lastmod>2021-11-19T23:09:50-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/</loc>
+    <lastmod>2021-11-19T23:09:50-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/how-sea-otters-can-fight-climate-change/</loc>
+    <lastmod>2021-11-19T23:09:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/climate-change/</loc>
+    <lastmod>2021-11-19T23:09:50-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/environment/</loc>
+    <lastmod>2021-11-19T23:09:50-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/tags/html/</loc>
+    <lastmod>2021-11-19T23:09:50-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/tags/sea-otter/</loc>
+    <lastmod>2021-11-19T23:09:50-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/personal/</loc>
+    <lastmod>2021-11-19T23:08:28-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/the-revival-of-a-historic-journey-across-spain/</loc>
+    <lastmod>2021-11-19T23:08:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/thoughts/</loc>
+    <lastmod>2021-11-19T23:08:28-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/tags/software/</loc>
+    <lastmod>2021-11-19T23:08:28-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/costa-ricas-answer-to-range-anxiety/</loc>
+    <lastmod>2021-11-19T23:06:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/the-far-reaching-benefits-of-tiger-sharks-for-climate/</loc>
+    <lastmod>2021-11-19T23:03:47-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/the-race-to-save-californias-rarest-butterflies/</loc>
+    <lastmod>2021-11-19T23:01:42-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/the-ancient-persian-way-to-keep-cool/</loc>
+    <lastmod>2021-11-19T22:52:53-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/the-unlikely-protector-against-bangladeshs-rising-seas/</loc>
+    <lastmod>2021-11-19T22:33:18-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/the-ingenious-living-bridges-india/</loc>
+    <lastmod>2021-11-19T21:04:24-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/tags/</loc>
+    <lastmod>2021-11-12T23:50:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/posts/2021/11/how-morocco-went-big-on-solar-energy/</loc>
+    <lastmod>2021-11-09T13:48:43-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/tags/africa/</loc>
+    <lastmod>2021-11-09T13:48:43-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/tags/future/</loc>
+    <lastmod>2021-11-09T13:48:43-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/solar-energy/</loc>
+    <lastmod>2021-11-09T13:48:43-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/categories/tech/</loc>
+    <lastmod>2021-11-09T13:48:43-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/opensource/</loc>
+    <lastmod>2021-11-08T21:16:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/contact/</loc>
+    <lastmod>2021-11-08T14:03:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/presentations/pocoo/</loc>
+    <lastmod>2021-11-07T11:05:05-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/presentations/</loc>
+    <lastmod>2021-11-07T11:05:05-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/about/</loc>
+    <lastmod>2021-11-01T23:43:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/projects/awesome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/projects/beautiful/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com:8080/projects/</loc>
+  </url>
+  
+</urlset>

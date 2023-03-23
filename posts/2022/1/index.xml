@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022/1 on Demo infosystem</title>
+    <link>http://example.com:8080/posts/2022/1/</link>
+    <description>Recent content in 2022/1 on Demo infosystem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 06:49:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com:8080/posts/2022/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First post from netlify deployment</title>
+      <link>http://example.com:8080/posts/2022/01/first-post-from-netlify-deployment/</link>
+      <pubDate>Sat, 29 Jan 2022 06:49:15 +0000</pubDate>
+      
+      <guid>http://example.com:8080/posts/2022/01/first-post-from-netlify-deployment/</guid>
+      <description>&lt;p&gt;Introduction to NetlifyCMS&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

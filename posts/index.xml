@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Demo infosystem</title>
+    <link>http://example.com:8080/posts/</link>
+    <description>Recent content in Posts on Demo infosystem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 06:49:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com:8080/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First post from netlify deployment</title>
+      <link>http://example.com:8080/posts/2022/01/first-post-from-netlify-deployment/</link>
+      <pubDate>Sat, 29 Jan 2022 06:49:15 +0000</pubDate>
+      
+      <guid>http://example.com:8080/posts/2022/01/first-post-from-netlify-deployment/</guid>
+      <description>&lt;p&gt;Introduction to NetlifyCMS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How sea otters can fight climate change</title>
+      <link>http://example.com:8080/posts/2021/11/how-sea-otters-can-fight-climate-change/</link>
+      <pubDate>Fri, 19 Nov 2021 23:09:50 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/how-sea-otters-can-fight-climate-change/</guid>
+      <description>&lt;p&gt;Sea otters were hunted to the brink in the 19th Century fur trade, but their numbers have been slowly recovering since. The return of these playful creatures doesn&amp;rsquo;t just transform their ecosystems, it can turn them into a powerful carbon sink.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The revival of a historic journey across Spain</title>
+      <link>http://example.com:8080/posts/2021/11/the-revival-of-a-historic-journey-across-spain/</link>
+      <pubDate>Fri, 19 Nov 2021 23:08:28 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/the-revival-of-a-historic-journey-across-spain/</guid>
+      <description>&lt;p&gt;A resurgence in pastoralism, one of the world&amp;rsquo;s more sustainable food systems, could help Spain adapt to climate change and revitalise depopulated rural areas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Costa Rica&#39;s answer to range anxiety</title>
+      <link>http://example.com:8080/posts/2021/11/costa-ricas-answer-to-range-anxiety/</link>
+      <pubDate>Fri, 19 Nov 2021 23:06:58 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/costa-ricas-answer-to-range-anxiety/</guid>
+      <description>&lt;p&gt;Thanks to a grassroots scheme, you can now reach a large number of remote tourist spots around the Costa Rican town of Monteverde in an electric vehicle.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The far-reaching benefits of tiger sharks for climate</title>
+      <link>http://example.com:8080/posts/2021/11/the-far-reaching-benefits-of-tiger-sharks-for-climate/</link>
+      <pubDate>Fri, 19 Nov 2021 23:03:47 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/the-far-reaching-benefits-of-tiger-sharks-for-climate/</guid>
+      <description>&lt;p&gt;Worldwide, shark populations are on the decline. Boosting their numbers could have a cascade effect to help sink carbon and make the oceans more resilient to climate change.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The race to save California&#39;s rarest butterflies</title>
+      <link>http://example.com:8080/posts/2021/11/the-race-to-save-californias-rarest-butterflies/</link>
+      <pubDate>Fri, 19 Nov 2021 23:01:42 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/the-race-to-save-californias-rarest-butterflies/</guid>
+      <description>&lt;p&gt;From a breeding laboratory putting species on &amp;ldquo;life support&amp;rdquo; to the world&amp;rsquo;s first fully electric smart tractor, California&amp;rsquo;s scientists and farmers are working to halt the rapid decline of the state&amp;rsquo;s butterflies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The ancient Persian way to keep cool</title>
+      <link>http://example.com:8080/posts/2021/11/the-ancient-persian-way-to-keep-cool/</link>
+      <pubDate>Fri, 19 Nov 2021 22:52:53 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/the-ancient-persian-way-to-keep-cool/</guid>
+      <description>&lt;p&gt;From ancient Egypt to the Persian Empire, an ingenious method of catching the breeze kept people cool for millennia. In the search for emissions-free cooling, the &amp;ldquo;wind catcher&amp;rdquo; could once again come to our aid. Bangladesh.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The unlikely protector against Bangladesh&#39;s rising seas</title>
+      <link>http://example.com:8080/posts/2021/11/the-unlikely-protector-against-bangladeshs-rising-seas/</link>
+      <pubDate>Fri, 19 Nov 2021 22:33:18 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/the-unlikely-protector-against-bangladeshs-rising-seas/</guid>
+      <description>&lt;p&gt;The humble oyster has proven remarkably effective in protecting one of Bangladesh&amp;rsquo;s most vulnerable islands from fast-rising seas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Ingenious Living Bridges India</title>
+      <link>http://example.com:8080/posts/2021/11/the-ingenious-living-bridges-india/</link>
+      <pubDate>Fri, 19 Nov 2021 21:04:24 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/the-ingenious-living-bridges-india/</guid>
+      <description>&lt;p&gt;For centuries, indigenous groups in north-east India have crafted intricate bridges from living fig trees. Now this ancient skill is making its way to European cities.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How Morocco went big on solar energy</title>
+      <link>http://example.com:8080/posts/2021/11/how-morocco-went-big-on-solar-energy/</link>
+      <pubDate>Tue, 09 Nov 2021 13:48:43 -0800</pubDate>
+      
+      <guid>http://example.com:8080/posts/2021/11/how-morocco-went-big-on-solar-energy/</guid>
+      <description>&lt;p&gt;Morocco has become famous for its vast, world-leading solar arrays. But these mega-projects are just the start of the action on climate change that Morocco could be capable of delivering.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
