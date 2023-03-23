@@ -5,7 +5,7 @@ echo "* checking out the master branch:"
 git clone --single-branch --branch master git@github.com:byteshower/byteshower.github.io.git master
 
 echo "* synchronizing the files:"
-rsync -arv public/ master --delete --exclude ".git"
+rsync -arv public/ master --delete --exclude ".git" --exclude "CNAME"
 cp README.md master/
 
 echo "* pushing to master:"

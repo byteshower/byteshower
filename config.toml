@@ -1,5 +1,5 @@
 # baseURL = 'https://hopeful-elion-6d9f8a.netlify.app/'
-baseURL = 'http://example.com:8080'
+baseURL = 'https://byteshower.com'
 languageCode = 'en-us'
 disableHugoGeneratorInject = true
 googleAnalytics = "UA-xxxxxxx"
